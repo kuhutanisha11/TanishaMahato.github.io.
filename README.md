@@ -42,7 +42,7 @@ footer img{width:180px;margin-bottom:10px;}
 </nav>
 
 <section id="home" class="hero">
-  <img src="photo.jpg" alt="Tanisha Mahato">
+  <img src="IMG_2127.jpeg" alt="Tanisha Mahato">
   <h1>Tanisha Mahato</h1>
   <p>Marketing | Editorial Strategy | Brand Communication</p>
 </section>
@@ -138,7 +138,7 @@ footer img{width:180px;margin-bottom:10px;}
 </section>
 
 <footer>
-  <img src="signature.jpg" alt="Signature of Tanisha Mahato">
+  <img src="IMG_2738.jpeg" alt="Signature of Tanisha Mahato">
   <p>© 2025 Tanisha Mahato | Creative & Marketing Portfolio</p>
 </footer>
 
